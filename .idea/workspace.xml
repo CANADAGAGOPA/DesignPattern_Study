@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b121ad-1ab7-4e29-abd1-b6260139d885" name="Changes" comment="" />
+    <list default="true" id="56b121ad-1ab7-4e29-abd1-b6260139d885" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/NoBlankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,14 +67,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/이것이_자바다&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,11 +93,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694425892135</updated>
-      <workItem from="1694425893172" duration="1000" />
+      <workItem from="1694425893172" duration="52000" />
+      <workItem from="1694425969667" duration="224000" />
+      <workItem from="1694426276928" duration="132000" />
+      <workItem from="1694426465418" duration="5195000" />
+      <workItem from="1694999432433" duration="13019000" />
+      <workItem from="1695602458971" duration="7775000" />
+      <workItem from="1695701809482" duration="28000" />
+      <workItem from="1696823172837" duration="37339000" />
+      <workItem from="1697274156188" duration="847000" />
+      <workItem from="1697427034961" duration="624000" />
+      <workItem from="1698816150801" duration="142000" />
+      <workItem from="1698816326759" duration="103000" />
+      <workItem from="1698816443115" duration="62000" />
+      <workItem from="1698819271058" duration="24000" />
+      <workItem from="1698819303427" duration="15000" />
+      <workItem from="1698819411708" duration="32000" />
+      <workItem from="1702272157513" duration="61000" />
+      <workItem from="1702272281541" duration="15830000" />
+      <workItem from="1702347081441" duration="10713000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
