@@ -1,9 +1,9 @@
-package DP04_FactoryPattern.PizzaFm;
+package DP04_FactoryPattern.PizzaFactoryMethod;
 
-import DP04_FactoryPattern.PizzaFm.Pizza.Pizza;
-import DP04_FactoryPattern.PizzaFm.PizzaStore.ChicagoPizzaStore;
-import DP04_FactoryPattern.PizzaFm.PizzaStore.NYPizzaStore;
-import DP04_FactoryPattern.PizzaFm.PizzaStore.PizzaStore;
+import DP04_FactoryPattern.PizzaFactoryMethod.Pizza.Pizza;
+import DP04_FactoryPattern.PizzaFactoryMethod.PizzaStore.ChicagoPizzaStore;
+import DP04_FactoryPattern.PizzaFactoryMethod.PizzaStore.NYPizzaStore;
+import DP04_FactoryPattern.PizzaFactoryMethod.PizzaStore.PizzaStore;
 
 public class PizzaTestDrive {
  

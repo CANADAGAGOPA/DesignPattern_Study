@@ -1,4 +1,6 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.Pizza;
+
+import DP04_FactoryPattern.PizzaAbstractFactory.PizzaIngredientFactory.PizzaIngredientFactory;
 
 public class VeggiePizza extends Pizza {
 	PizzaIngredientFactory ingredientFactory;
@@ -7,7 +9,7 @@ public class VeggiePizza extends Pizza {
 		this.ingredientFactory = ingredientFactory;
 	}
  
-	void prepare() {
+	public void prepare() {
 		System.out.println("Preparing " + name);
 		dough = ingredientFactory.createDough();
 		sauce = ingredientFactory.createSauce();

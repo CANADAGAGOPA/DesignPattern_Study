@@ -1,6 +1,6 @@
-package DP04_FactoryPattern.Pizzas;
+package DP04_FactoryPattern.PizzaSimple;
 
-import DP04_FactoryPattern.Pizzas.Pizza.Pizza;
+import DP04_FactoryPattern.PizzaSimple.Pizza.Pizza;
 
 public class PizzaStore {
 	SimplePizzaFactory factory;

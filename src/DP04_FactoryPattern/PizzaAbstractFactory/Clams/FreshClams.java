@@ -1,4 +1,4 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.Clams;
 
 public class FreshClams implements Clams {
 

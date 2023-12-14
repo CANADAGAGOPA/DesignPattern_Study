@@ -1,4 +1,11 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.Pizza;
+
+import DP04_FactoryPattern.PizzaAbstractFactory.Cheese.Cheese;
+import DP04_FactoryPattern.PizzaAbstractFactory.Clams.Clams;
+import DP04_FactoryPattern.PizzaAbstractFactory.Dough.Dough;
+import DP04_FactoryPattern.PizzaAbstractFactory.Pepperoni.Pepperoni;
+import DP04_FactoryPattern.PizzaAbstractFactory.Sause.Sauce;
+import DP04_FactoryPattern.PizzaAbstractFactory.Veggies.Veggies;
 
 public abstract class Pizza {
 	String name;
@@ -10,25 +17,25 @@ public abstract class Pizza {
 	Pepperoni pepperoni;
 	Clams clam;
 
-	abstract void prepare();
+	public abstract void prepare();
 
-	void bake() {
+	public void bake() {
 		System.out.println("Bake for 25 minutes at 350");
 	}
 
-	void cut() {
+	public void cut() {
 		System.out.println("Cutting the pizza into diagonal slices");
 	}
 
-	void box() {
+	public void box() {
 		System.out.println("Place pizza in official PizzaStore box");
 	}
 
-	void setName(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
-	String getName() {
+	public String getName() {
 		return name;
 	}
 

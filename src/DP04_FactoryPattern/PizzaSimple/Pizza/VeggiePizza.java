@@ -1,4 +1,4 @@
-package DP04_FactoryPattern.Pizzas.Pizza;
+package DP04_FactoryPattern.PizzaSimple.Pizza;
 
 public class VeggiePizza extends Pizza {
 	public VeggiePizza() {

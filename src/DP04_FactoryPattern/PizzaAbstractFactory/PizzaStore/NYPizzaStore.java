@@ -1,10 +1,14 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.PizzaStore;
+
+import DP04_FactoryPattern.PizzaAbstractFactory.PizzaIngredientFactory.NYPizzaIngredientFactory;
+import DP04_FactoryPattern.PizzaAbstractFactory.Pizza.*;
+import DP04_FactoryPattern.PizzaAbstractFactory.PizzaIngredientFactory.PizzaIngredientFactory;
 
 public class NYPizzaStore extends PizzaStore {
  
 	protected Pizza createPizza(String item) {
 		Pizza pizza = null;
-		PizzaIngredientFactory ingredientFactory = 
+		PizzaIngredientFactory ingredientFactory =
 			new NYPizzaIngredientFactory();
  
 		if (item.equals("cheese")) {

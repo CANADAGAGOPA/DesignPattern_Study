@@ -1,6 +1,6 @@
-package DP04_FactoryPattern.PizzaFm;
+package DP04_FactoryPattern.PizzaFactoryMethod;
 
-import DP04_FactoryPattern.PizzaFm.Pizza.*;
+import DP04_FactoryPattern.PizzaFactoryMethod.Pizza.*;
 
 public class DependentPizzaStore {
  

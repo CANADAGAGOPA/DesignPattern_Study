@@ -1,4 +1,4 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.Dough;
 
 public class ThickCrustDough implements Dough {
 	public String toString() {

@@ -1,4 +1,6 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.PizzaStore;
+
+import DP04_FactoryPattern.PizzaAbstractFactory.Pizza.Pizza;
 
 public abstract class PizzaStore {
  

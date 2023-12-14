@@ -1,4 +1,4 @@
-package DP04_FactoryPattern.pizzaaf;
+package DP04_FactoryPattern.PizzaAbstractFactory.Cheese;
 
 public class ParmesanCheese implements Cheese {
 

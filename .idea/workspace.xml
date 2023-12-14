@@ -5,45 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56b121ad-1ab7-4e29-abd1-b6260139d885" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP01_StrategyPattern/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP02_ObserverPattern/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/LowerCaseInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/NoBlankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/IOstream/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/StarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP03_DecoratorPattern/StarbuzzCoffee/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +25,7 @@
       <list>
         <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -62,37 +33,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2VFJQrqhUkq5qshZiTzvze7a3Yf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/이것이_자바다&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/디자인 패턴/DesignPattern/src/DP04_FactoryPattern/PizzaAbstractFactory/Veggies",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\디자인 패턴\DesignPattern\src\DP04_FactoryPattern\PizzaAbstractFactory\Veggies" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -121,7 +99,8 @@
       <workItem from="1702272281541" duration="15830000" />
       <workItem from="1702347081441" duration="11631000" />
       <workItem from="1702369849665" duration="9934000" />
-      <workItem from="1702430372314" duration="3147000" />
+      <workItem from="1702430372314" duration="6280000" />
+      <workItem from="1702443377232" duration="5396000" />
     </task>
     <task id="LOCAL-00001" summary="스트레티지, 옵저버 패턴 학습">
       <created>1702369520436</created>
@@ -130,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702369520436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="데코레이터 패턴 학습">
+      <created>1702434124023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702434124023</updated>
+    </task>
+    <task id="LOCAL-00003" summary="팩토리 패턴 학습">
+      <created>1702467653930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702467653930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="스트레티지, 옵저버 패턴 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="스트레티지, 옵저버 패턴 학습" />
+    <MESSAGE value="데코레이터 패턴 학습" />
+    <MESSAGE value="팩토리 패턴 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="팩토리 패턴 학습" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package DP04_FactoryPattern.PizzaFm.Pizza;
+package DP04_FactoryPattern.PizzaFactoryMethod.Pizza;
 
 public class ChicagoStylePepperoniPizza extends Pizza {
 	public ChicagoStylePepperoniPizza() {
