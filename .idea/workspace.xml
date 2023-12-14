@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b121ad-1ab7-4e29-abd1-b6260139d885" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/PizzaTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP04_FactoryPattern/pizzas/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="56b121ad-1ab7-4e29-abd1-b6260139d885" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,31 +31,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/Desktop/디자인 패턴/DesignPattern/src/DP04_FactoryPattern/PizzaAbstractFactory/Veggies",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/디자인 패턴/DesignPattern/src/DP04_FactoryPattern/PizzaAbstractFactory/Veggies&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\디자인 패턴\DesignPattern\src\DP04_FactoryPattern\PizzaAbstractFactory\Veggies" />
@@ -101,6 +91,7 @@
       <workItem from="1702369849665" duration="9934000" />
       <workItem from="1702430372314" duration="6280000" />
       <workItem from="1702443377232" duration="5396000" />
+      <workItem from="1702532475672" duration="6741000" />
     </task>
     <task id="LOCAL-00001" summary="스트레티지, 옵저버 패턴 학습">
       <created>1702369520436</created>
@@ -123,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702467653930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="팩토리 패턴 학습">
+      <created>1702532514757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702532514757</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
