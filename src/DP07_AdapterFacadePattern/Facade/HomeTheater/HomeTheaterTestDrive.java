@@ -1,4 +1,4 @@
-package DP07_AdapterFacadePattern.hometheater;
+package DP07_AdapterFacadePattern.Facade.HomeTheater;
 
 public class HomeTheaterTestDrive {
 	public static void main(String[] args) {
